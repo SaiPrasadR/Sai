@@ -1,4 +1,4 @@
-**Title of the Project** : C Image Steganography
+**Title of 1st Project ** : C Image Steganography
 
 **Created by  **         : Sai Prasad R
 
@@ -43,3 +43,13 @@ Sample Ouput(Decoding) : Selected decoding
 			 Secret file size decoded successfully
 			 Secret data decoded Successfully
 			 Decoding is successful
+    
+
+**Title of 2nd Project**  : Inverted Search using Hashing Method
+
+**Created By **   : Sai Prasad
+
+**Description  ** : This project is based on the concept of Inverted Index Search.
+		That is List of indexes of all the unique words were mapped to a
+		document search. Concept of Hashing, File Handling, Strings
+		were used. Project under the category of Data Structures.
